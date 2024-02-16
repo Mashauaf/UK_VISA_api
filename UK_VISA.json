@@ -1,6 +1,5 @@
-```json
-{
-  "ukStudyVisaRequirements": {
+
+[{
     "id": 1,
     "eligibilityCriteria": {
       "ageRequirement": "16 or older",
@@ -37,17 +36,5 @@
       ]
     },
     "processingTime": "Approximately 3 weeks",
-    "faqs": [
-      "What is a UK study visa?",
-      "Who needs a UK study visa?",
-      "How do I apply for a UK study visa from Pakistan?",
-      "What documents are required for a UK study visa application?",
-      "How long does it take to get a UK study visa?",
-      "How much does a UK study visa cost?",
-      "Can I work while studying in the UK with a study visa?",
-      "How can I extend my UK study visa?",
-      "What happens if my UK study visa application is rejected?"
-    ]
   }
-}
-```
+]
