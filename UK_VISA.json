@@ -1,40 +1,12 @@
-
 [{
     "id": 1,
-    "eligibilityCriteria": {
-      "ageRequirement": "16 or older",
-      "universityPlacement": true,
-      "financialProof": true,
-      "englishLanguageProficiency": true
-    },
-    "applicationTimeline": {
-      "applyBefore": "6 months prior to the course start date",
-      "processingTime": "3 weeks"
-    },
-    "durationOfStay": {
-      "maximumDuration": "Up to 5 years with Tier 4 student visa",
-      "travelPeriod": "Up to one month before the course duration for courses longer than 6 months"
-    },
-    "fees": {
-      "tier4StudentVisaFee": "£363 for courses longer than 6 months"
-    },
-    "requiredDocuments": [
-      "Passport",
-      "Acceptance letter from UK University",
-      "Bank statement showing sufficient funds",
-      "TB test report",
-      "English proficiency certificate"
-    ],
-    "applicationProcess": {
-      "steps": [
-        "Access the online application form through the UK Visa and Immigration website.",
-        "Register an email.",
-        "Fill out the complete application and fee payment details.",
-        "After submitting the application, wait for the decision as supporting documents need to be verified.",
-        "Attend an interview.",
-        "Subsequent to this, the applicant’s photograph and fingerprints (biometric verification) are taken at the center."
-      ]
-    },
-    "processingTime": "Approximately 3 weeks",
-  }
+    "ageRequirement": "16 or older",
+    "englishLanguageProficiency": true
+    "processingTime": "3 weeks"
+    "durationOfStay": "Up to 5 years with Tier 4 student visa",
+    "travelPeriod": "Up to one month before the course duration for courses longer than 6 months"
+    "fees": "£363 for courses longer than 6 months"
+    "requiredDocuments": "Passport, Acceptance letter from UK University, Bank statement showing sufficient funds, TB test report, English proficiency certificate"
+    "processingTime": "Approximately 3 weeks",
+  }
 ]
